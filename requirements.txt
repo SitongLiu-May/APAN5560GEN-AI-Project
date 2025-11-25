@@ -6,3 +6,4 @@ torch
 langchain
 openai>=1.0.0
 python-dotenv
+datasets
