@@ -1,0 +1,21 @@
+# Ignore datasets
+data/*.csv
+data/*.json
+data/*.txt
+
+# Ignore trained models
+models/*.pt
+models/*.pkl
+models/*.bin
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+*.env
+
+# MacOS system files
+.DS_Store
