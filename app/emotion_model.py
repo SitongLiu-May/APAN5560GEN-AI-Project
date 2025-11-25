@@ -1,5 +1,3 @@
-# app/emotion_model.py
-
 import re
 import torch
 import torch.nn as nn

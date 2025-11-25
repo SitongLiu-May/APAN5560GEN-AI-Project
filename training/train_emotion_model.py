@@ -183,5 +183,5 @@ def train_model(
 
 
 if __name__ == "__main__":
-    # Example usage – change this path to your real CSV
-    train_model(data_csv_path="data/emotion_dataset.csv")
+    train_model("data/empathetic_train.csv")
+
